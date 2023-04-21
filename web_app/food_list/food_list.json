@@ -1,0 +1,736 @@
+{
+    "0": {
+        "Menuname": "Chicken Green Curry",
+        "Thai":"แกงเขียวหวานไก่",
+        "Karaoke":"Gang-Keiw-Wan-Gai",
+        "Meat": ["Chicken"],
+        "Spicy": true,
+        "Calories": 240,
+        "Allergy": ["Shallot",
+                    "Garlic",
+                    "Shrimp paste",
+                    "Coconut milk",
+                    "Chili",
+                    "Turkey berry"]
+    },
+    "1": {
+        "Menuname": "Pork Curry with Morning Glory",
+        "Thai":"แกงเทโพ",
+        "Karaoke":"Gang-Tae-Po",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": 790.8,
+        "Allergy": [
+            "Coconut milk",
+            "Chili"
+        ]
+    },
+    "2": {
+        "Menuname": "Spicy mixed vegetable soup",
+        "Thai":"แกงเลียง",
+        "Karaoke":"Gang-Leang",
+        "Meat": [
+            "Shrimp"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Shrimp",
+            "Shallot",
+            "Shrimp paste"
+        ]
+    },
+    "3": {
+        "Menuname": "Pork Chopped Tofu Soup",
+        "Thai":"แกงจืดเต้าหู้หมูสับ",
+        "Karaoke":"Gang-Joeid-Tao-Hu-Moo-Sub",
+        "Meat": [
+            "Pork",
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 320,
+        "Allergy": [
+            "Egg"
+        ]
+    },
+    "4": {
+        "Menuname": "Stuffed Bitter Gourd Broth",
+        "Thai":"แกงจืดมะระยัดไส้",
+        "Karaoke":"Gang-Joeid-Ma-Ra-Yud-Sai",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 62.4,
+        "Allergy": [
+            "Mushroom",
+            "Bitter Gourd",
+            "Garlic",
+            "Pork"
+        ]
+    },
+    "5": {
+        "Menuname": "Chicken Mussaman Curry",
+        "Thai":"แกงมัสมั่นไก่",
+        "Karaoke":"Gang-Mussaman-Gai",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": true,
+        "Calories": 252,
+        "Allergy": [
+            "Chili",
+            "Coconut milk",
+            "Potato",
+            "Cashew nut"
+        ]
+    },
+    "6": {
+        "Menuname": "Sour Soup",
+        "Thai":"แกงส้มกุ้ง",
+        "Karaoke":"Gang-Som-Goong",
+        "Meat": [
+            "Shrimp"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Coconut milk",
+            "Chili",
+            "Peanut",
+            "Potato"
+        ]
+    },
+    "7": {
+        "Menuname": "Stir Fried Chicken with Chestnuts",
+        "Thai":"ไก่ผัดเม็ดมะม่วงหิมพานต์",
+        "Karaoke":"Gai-Pad-Med-Ma-Moang-Him-Ma-Pan",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Chili",
+            "Garlic",
+            "Cashew nut",
+            "Wheat flour"
+        ]
+    },
+    "8": {
+        "Menuname": "Omelet",
+        "Thai":"ไข่เจียว",
+        "Karaoke":"Kai-Jiew",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Eggs"
+        ]
+    },
+    "9": {
+        "Menuname": "Fried egg",
+        "Thai":"ไข่ดาว",
+        "Karaoke":"Kai-Daow",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Eggs"
+        ]
+    },
+    "10": {
+        "Menuname": "Egg and Pork in Sweet Brown Sauce",
+        "Thai":"ไข่พะโล้",
+        "Karaoke":"Kai-Pa-Low",
+        "Meat": [
+            "Eggs",
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 79,
+        "Allergy": [
+            "Egg",
+            "Pork",
+            "Coriander root",
+            "Garlic"
+        ]
+    },
+    "11": {
+        "Menuname": "Egg with Tamarind Sauce",
+        "Thai":"ไข่ลูกเขย",
+        "Karaoke":"Kai-Look-Keay",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Egg",
+            "Shallot",
+            "Garlic",
+            "Chili"
+        ]
+    },
+    "12": {
+        "Menuname": "Banana in coconut milk",
+        "Thai":"กล้วยบวชชี",
+        "Karaoke":"Kluy-Bouch-She",
+        "Meat": [
+            null
+        ],
+        "Spicy": false,
+        "Calories": 154,
+        "Allergy": [
+            "Banana",
+            "Coconut milk"
+        ]
+    },
+    "13": {
+        "Menuname": "Stir Fried Rice Noodles with Chicken",
+        "Thai":"ก๋วยเตี๋ยวคั่วไก่",
+        "Karaoke":"Kuaw-Teaw-Kua-Gai",
+        "Meat": [
+            "Chicken",
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 204.8,
+        "Allergy": [
+            "Chicken",
+            "Garlic",
+            "Corn flour",
+            "Egg",
+            "Big Flat Noodle"
+        ]
+    },
+    "14": {
+        "Menuname": "Fried Cabbage with Fish Sauce",
+        "Thai":"กะหล่ำปลีผัดน้ำปลา",
+        "Karaoke":"Ka-Lum-Pre-Pad-Nam-Pla",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 90,
+        "Allergy": [
+            "Garlic",
+            "Pork",
+            "Fish Sauce"
+        ]
+    },
+    "15": {
+        "Menuname": "Grilled River Prawn",
+        "Thai":"กุ้งแม่น้ำเผา",
+        "Karaoke":"Goong-Mae-Nam-Pao",
+        "Meat": [
+            "Prawn"
+        ],
+        "Spicy": false,
+        "Calories": 96,
+        "Allergy": [
+            "Prawn"
+        ]
+    },
+    "16": {
+        "Menuname": "Baked Prawns With Vermicelli",
+        "Thai":"กุ้งอบวุ้นเส้น",
+        "Karaoke":"Goong-Oab-Woon-Sen",
+        "Meat": [
+            "Prawn",
+            "Bacon"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Prawn",
+            "Bacon",
+            "Ginger",
+            "Garlic"
+        ]
+    },
+    "17": {
+        "Menuname": "Coconut rice pancake",
+        "Thai":"ขนมครก",
+        "Karaoke":"Ka-Nom-Kruk",
+        "Meat": [
+            null
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Coconut milk",
+            "Rice flour",
+            "Glutinous rice flour"
+        ]
+    },
+    "18": {
+        "Menuname": "Mango Sticky Rice",
+        "Thai":"ข้าวเหนียวมะม่วง",
+        "Karaoke":"Kao-Neaw-Ma-Moang",
+        "Meat": [
+            null
+        ],
+        "Spicy": false,
+        "Calories": 350,
+        "Allergy": [
+            "Coconut milk",
+            "Rice flour"
+        ]
+    },
+    "19": {
+        "Menuname": "Thai Pork Leg Stew",
+        "Thai":"ข้าวขาหมู",
+        "Karaoke":"Kao-Ka-Moo",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 152,
+        "Allergy": [
+            "Cinnamon",
+            "Garlic"
+        ]
+    },
+    "20": {
+        "Menuname": "Shrimp Paste Fried Rice",
+        "Thai":"ข้าวคลุกกะปิ",
+        "Karaoke":"Kao-Kluk-Ka-Pi",
+        "Meat": [
+            "Pork",
+            "Shrimp",
+            "Eggs"
+        ],
+        "Spicy": true,
+        "Calories": 209,
+        "Allergy": [
+            "Shallot",
+            "Shrimp paste",
+            "Dried salted prawn",
+            "Pork",
+            "Chili",
+            "Egg"
+        ]
+    },
+    "21": {
+        "Menuname": "Curried Noodle Soup with Chicken",
+        "Thai":"ข้าวซอย",
+        "Karaoke":"Kao-Soy",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": true,
+        "Calories": 154,
+        "Allergy": [
+            "Chili",
+            "Shallot",
+            "Coconut milk",
+            "Chinese egg noodle"
+        ]
+    },
+    "22": {
+        "Menuname": "Fried rice",
+        "Thai":"ข้าวผัด",
+        "Karaoke":"Kao-Pad",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 178,
+        "Allergy": [
+            "Egg",
+            "Garlic"
+        ]
+    },
+    "23": {
+        "Menuname": "Shrimp Fried Rice",
+        "Thai":"ข้าวผัดกุ้ง",
+        "Karaoke":"Kao-Pad-Goong",
+        "Meat": [
+            "Eggs",
+            "Shrimp"
+        ],
+        "Spicy": false,
+        "Calories": 182.1,
+        "Allergy": [
+            "Shrimp",
+            "Egg",
+            "Garlic"
+        ]
+    },
+    "24": {
+        "Menuname": "Steamed capon in flavored rice",
+        "Thai":"ข้าวมันไก่",
+        "Karaoke":"Kao-Man-Gai",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": false,
+        "Calories": 199,
+        "Allergy": [
+            "Garlic",
+            "Ginge"
+        ]
+    },
+    "25": {
+        "Menuname": "Thai Chicken Biryani",
+        "Thai":"ข้าวหมกไก่",
+        "Karaoke":"Kao-Mok-Gai",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Curry",
+            "Evaporated Milk",
+            "Yogurt",
+            "Shallot",
+            "Cinnamon"
+        ]
+    },
+    "26": {
+        "Menuname": "Thai Chicken Coconut soup",
+        "Thai":"ต้มข่าไก่",
+        "Karaoke":"Tom-Ka-Gai",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Galangal",
+            "Lemonglass",
+            "Coconut milk",
+            "Chili"
+        ]
+    },
+    "27": {
+        "Menuname": "River prawn spicy soup",
+        "Thai":"ต้มยำกุ้ง",
+        "Karaoke":"Tom-Yum-Goong",
+        "Meat": [
+            "Prawn"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Lemongrass",
+            "Galangal",
+            "Garlic",
+            "Chili",
+            "Shrimp",
+            "Tomato"
+        ]
+    },
+    "28": {
+        "Menuname": "Fried fish-paste balls",
+        "Thai":"ทอดมัน",
+        "Karaoke":"Tod-Man",
+        "Meat": [
+            "Fish",
+            "Eggs"
+        ],
+        "Spicy": true,
+        "Calories": 219.2,
+        "Allergy": [
+            "Fish",
+            "Cow-pea",
+            "Egg",
+            "Chili"
+        ]
+    },
+    "29": {
+        "Menuname": "Deep fried spring roll",
+        "Thai":"ปอเปี๊ยะทอด",
+        "Karaoke":"Po-Pia-Tod",
+        "Meat": [
+            "Pork",
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 196,
+        "Allergy": [
+            "Flour",
+            "Garlic",
+            "Pork",
+            "Egg"
+        ]
+    },
+    "30": {
+        "Menuname": "Stir-Fried Chinese Morning Glory",
+        "Thai":"ผัดบุ้งไฟแดง",
+        "Karaoke":"Pad-Boong-Fai-Dang",
+        "Meat": [
+            null
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Garlic",
+            "Chili"
+        ]
+    },
+    "31": {
+        "Menuname": "Fried noodle Thai style with prawns",
+        "Thai":"ผัดไท",
+        "Karaoke":"Pad-Thai",
+        "Meat": [
+            "Prawn",
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 239,
+        "Allergy": [
+            "Prawn",
+            "Radish",
+            "Tofu",
+            "Egg"
+        ]
+    },
+    "32": {
+        "Menuname": "Stir fried Thai basil with minced pork",
+        "Thai":"ผัดกะเพรา",
+        "Karaoke":"Pad-Kra-Pao",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Pork",
+            "Soy sauce",
+            "Garlic",
+            "Chili"
+        ]
+    },
+    "33": {
+        "Menuname": "Fried Noodle in Soy Sauce",
+        "Thai":"ผัดซีอิ๊วเส้นใหญ่",
+        "Karaoke":"Pad-See-Eiaw-Sen-Yai",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Garlic",
+            "Egg"
+        ]
+    },
+    "34": {
+        "Menuname": "Stir-fried Pumpkin with Eggs",
+        "Thai":"ฟักทองผัดไข่",
+        "Karaoke":"Fak-Tong-Pad-Kai",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": null,
+        "Allergy": [
+            "Egg",
+            "Garlic"
+        ]
+    },
+    "35": {
+        "Menuname": "Stir-Fried Eggplant with Soybean Paste Sauce",
+        "Thai":"ผัดมะเขือยาวหมูสับ",
+        "Karaoke":"Pad-Ma-Koil-Yaw-Moo-Sub",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Garlic",
+            "Chili",
+            "Bean Sauce",
+            "Pork"
+        ]
+    },
+    "36": {
+        "Menuname": "Stir Fried Clams with Roasted Chili Paste",
+        "Thai":"ผัดหอยลาย",
+        "Karaoke":"Pad-Hoi-Lai",
+        "Meat": [
+            "Clams"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Clams",
+            "Chili",
+            "Garlic"
+        ]
+    },
+    "37": {
+        "Menuname": "Golden Egg Yolk Threads",
+        "Thai":"ฝอยทอง",
+        "Karaoke":"Foi-Tong",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": "433 Kcal per 100 grams",
+        "Allergy": [
+            "Eggs"
+        ]
+    },
+    "38": {
+        "Menuname": "Chicken Panang",
+        "Thai":"พะแนงไก่",
+        "Karaoke":"Pa-Nang-Gai",
+        "Meat": [
+            "Chicken"
+        ],
+        "Spicy": true,
+        "Calories": "147 Kcal per 100 grams",
+        "Allergy": [
+            "Chili",
+            "Coconut milk"
+        ]
+    },
+    "39": {
+        "Menuname": "Thai Wing Beans Salad",
+        "Thai":"ยำถั่วพู",
+        "Karaoke":"Yum-Tua-Poo",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": 335,
+        "Allergy": [
+            "Winged Bean",
+            "Pork",
+            "Chili",
+            "Coconut milk",
+            "Shallot",
+            "Garlic"
+        ]
+    },
+    "40": {
+        "Menuname": "Spicy Glass Noodle Salad",
+        "Thai":"ยำวุ้นเส้น",
+        "Karaoke":"Yum-Woon-Sen",
+        "Meat": [
+            "Shrimp",
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Shrimp",
+            "Pork",
+            "Onion",
+            "Tomato",
+            "Shallot",
+            "Chili",
+            "Vermicelli"
+        ]
+    },
+    "41": {
+        "Menuname": "Spicy minced pork salad",
+        "Thai":"ลาบหมู",
+        "Karaoke":"Larb-Moo",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": true,
+        "Calories": 110,
+        "Allergy": [
+            "Chili",
+            "Liver",
+            "Roasted Ground Rice",
+            "Shallot"
+        ]
+    },
+    "42": {
+        "Menuname": "Egg custard in pumpkin",
+        "Thai":"สังขยาฟักทอง",
+        "Karaoke":"Sang-Ka-Ya-Fak-Tong",
+        "Meat": [
+            "Eggs"
+        ],
+        "Spicy": false,
+        "Calories": 133,
+        "Allergy": [
+            "Pumpkin",
+            "Coconut milk",
+            "Egg"
+        ]
+    },
+    "43": {
+        "Menuname": "Tapioca Balls with Pork Filling",
+        "Thai":"สาคูไส้หมู",
+        "Karaoke":"Sa-Ku-Sai-Moo",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 95,
+        "Allergy": [
+            "Sago",
+            "Pork",
+            "Garlic",
+            "Shallot",
+            "Peanut",
+            "Radish"
+        ]
+    },
+    "44": {
+        "Menuname": "Green Papaya Salad",
+        "Thai":"ส้มตำ",
+        "Karaoke":"Som-Tum",
+        "Meat": [
+            "Prawn"
+        ],
+        "Spicy": true,
+        "Calories": null,
+        "Allergy": [
+            "Garlic",
+            "Cow-pea",
+            "Dried Salt Prawn",
+            "Peanut",
+            "Chili"
+        ]
+    },
+    "46": {
+        "Menuname": "Thai-Style Grilled Pork Skewers",
+        "Thai":"หมูปิ้ง",
+        "Karaoke":"Moo-Ping",
+        "Meat": [
+            "Pork"
+        ],
+        "Spicy": false,
+        "Calories": 170,
+        "Allergy": [
+            "Galic",
+            "Milk"
+        ]
+    },
+    "47": {
+        "Menuname": "Steamed Fish with Curry paste",
+        "Thai":"ห่อหมก",
+        "Karaoke":"Hor-Mok",
+        "Meat": [
+            "Fish",
+            "Eggs"
+        ],
+        "Spicy": true,
+        "Calories": 126,
+        "Allergy": [
+            "Fish",
+            "Chili",
+            "Egg",
+            "Coconut milk",
+            "Rice Flour"
+        ]
+    }
+}
